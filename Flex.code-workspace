@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../anaconda3/envs/pelican/lib/python3.12/site-packages/pelican/themes/Flex"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
