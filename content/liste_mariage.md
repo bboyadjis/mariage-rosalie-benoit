@@ -7,7 +7,7 @@ Nous vous proposons de nous accompagner dans nos projets futurs à travers cette
 
 Pour des raisons de simplicité, nous nous permettons de vous laisser nos coordonnées bancaires ci-après, afin que vous puissiez réaliser un virement selon votre convenance. N'hésitez pas à préciser le cadeau sur lequel vous souhaiteriez contribuer !
 
-> IBAN compte joint: fqdhfodsqvndsqlhfmkjm
+> IBAN compte joint: FR8620041000014207442M02071
 
 ## Projets & Cadeaux
 

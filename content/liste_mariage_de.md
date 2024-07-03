@@ -7,7 +7,7 @@ Wir laden Sie ein, uns bei unseren zukünftigen Projekten durch diese Hochzeitsl
 
 Der Einfachheit halber möchten wir Ihnen nachfolgend unsere Bankverbindung hinterlassen, damit Sie eine Überweisung ganz nach Ihren Wünschen durchführen können. Zögern Sie nicht, die Spende anzugeben, zu der Sie beitragen möchten!
 
-> Gemeinschaftskonto IBAN: fqdhfodsqvndsqlhfmkjm
+> Gemeinschaftskonto IBAN: Rosalie Scholz, La Banque Postale, FR8620041000014207442M02071
 
 ## Projekte & Geschenke
 
