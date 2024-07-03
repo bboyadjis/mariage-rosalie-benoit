@@ -2,10 +2,12 @@ AUTHOR = 'Benoit Boyadjis'
 SITEURL = "" # "https://bboyadjis.github.io/mariage-rosalie-benoit"
 PATH = "content"
 
-SITENAME = 'Mariage Rosalie et Benoit'
-SITETITLE = 'Mariage Rosalie et Benoit'
+SITENAME = 'Mariage Rosalie et Benoît'
+SITETITLE = 'Mariage Rosalie et Benoît'
 TAG_LINE = "Paris, 20 Juillet 2024"
 SITESUBTITLE = "Paris, 20 Juillet 2024"
+
+FAVICON = 'mariage-rosalie-benoit/images/favicon.ico'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -34,7 +36,8 @@ STATIC_PATHS = [
     'images',
 ]
 EXTRA_PATH_METADATA = {
-    'images/favicon.ico': {'path': 'favicon.ico'}, 
+    # 'images/favicon.ico': {'path': 'favicon.ico'}, 
+    'images/favicon.ico': {'path': FAVICON}, 
 }
 
 DEFAULT_PAGINATION = False

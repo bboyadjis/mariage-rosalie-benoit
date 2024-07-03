@@ -18,8 +18,8 @@ Nom | Téléphone | Email
 --- | --- | ---
 Pierre-Michel Comparon | (+33)6 31 45 19 37 | pmc004@hotmail.com
 Nicolas Boyadjis | (+33)6 22 76 06 86 | nicolas.boyadjis@gmail.com
-- | - | -
-- | - | -
+Hannah Amalric | (+33)6 15 63 38 40 | -
+Nanni Longobardo | (+41) 78 259 76 43 | -
 
 ## La Famille
 

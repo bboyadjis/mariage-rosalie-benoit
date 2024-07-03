@@ -19,7 +19,7 @@ Bouquet final de notre mariage, nous prévoyons une semaine (sans Joséphine !) 
 
 ### Paire d'enceintes Hi-Fi Raven Héritage
 
-Cadeau pour Joséphine plus que pour nous-même, nous souhaitons nous équiper d'un système de son de grande qualité proposé par la Maison du Haut-Parleur. Il est important d'éduquer les oreilles de notre petit chou dès son plus jeune âge !
+Cadeau pour Joséphine plus que pour nous-même, nous souhaitons nous équiper d'un système de son de qualité proposé par la Maison du Haut-Parleur. Il est important d'éduquer les oreilles de notre petit chou dès son plus jeune âge !
 
 ![italie](images/photo_7.jpg)
 
@@ -31,6 +31,6 @@ Rosalie a un coup de coeur pour l'ambiance et le style de la galerie où nous or
 
 ### VDI Jazz (Voyage à Durée Indéterminée)
 
-Sur un registre un peu différent, nous nous proposons d'envoyer Jazz en vacances quelques temps, afin de profiter d'une courte période sans croquettes et litière à la maison. (PS: c'est une blague, bien entendu)
+Sur un autre registre, nous nous proposons d'envoyer Jazz en vacances quelques temps. Une semaine de Club Med Croquettes pour un calme total à la maison !
 
 ![chat](images/photo_6.jpeg)
